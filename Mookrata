@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moo Krata Token</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #fff5e6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-image: url('https://www.dropbox.com/scl/fi/8ppfapzor0axrlvxsstzg/_20240727_165740_0000.png?rlkey=5f4y1euh81aw3mv85u5rgj713&dl=1'); /* Updated background image URL */
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        header {
+            background-color: #ff9999;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 5px solid #ff6666;
+            border-radius: 0 0 15px 15px;
+            position: relative;
+            z-index: 1;
+        }
+        header h1 {
+            margin: 0;
+            color: #fff;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        .cute-pig-header {
+            display: block;
+            max-width: 150px;
+            height: auto;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+            z-index: 1;
+        }
+        section::before {
+            content: url('https://www.example.com/cute-pig-icon.png'); /*  */
+            display: block;
+            width: 50px;
+            height: auto;
+            margin-bottom: 10px;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: -1;
+        }
+        h2, h3, h4 {
+            color: #ff6666;
+            font-weight: 600;
+        }
+        footer {
+            background-color: #ff9999;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            border-top: 5px solid #ff6666;
+            border-radius: 15px 15px 0 0;
+        }
+        .community-links a {
+            margin: 0 10px;
+            color: #ff6666;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .community-links a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #ffe6e6;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .alert-box {
+            display: none;
+            background: #ff9999;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            background: #ff6666;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        .button:hover {
+            background: #ff4444;
+        }
+        .contact-us {
+            font-size: 1.2em;
+            margin-top: 20px;
+            text-align: center;
+            font-weight: bold;
+            color: #ff6666;
+        }
+        .contact-us a {
+            color: #ff6666;
+            text-decoration: none;
+        }
+        .contact-us a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Moo Krata Token</h1>
+        <img src="https://www.dropbox.com/scl/fi/gv0ly0jd75xkrh2ka8vgr/Thai-BBQ-buffet_20240727_132209_0000.png?rlkey=rven1cmqo6o1atxm846sflxhx&dl=1" alt="Cute Pig" class="cute-pig-header"> <!-- Updated pig image URL -->
+    </header>
+    <main>
+        <section>
+            <h2>Combining Popular Food with the Crypto World for Fun and Humor</h2>
+            <p>Moo Krata Token is created for entertainment and celebrating Thai food culture in a digital form, focusing on uniqueness and enjoyment in the crypto community rather than economic value.</p>
+        </section>
+        <section>
+            <h2>Concept: Enjoy Moo Krata in the Digital World</h2>
+            <h3>Main Theme</h3>
+            <ul>
+                <li>The "Moo Krata Token" is designed to symbolize the fun and deliciousness related to Moo Krata, a popular dish in Thailand and around the world.</li>
+                <li>Aiming to build a community with shared interests in food and dining culture.</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Presentation</h3>
+            <h4>Food and Culture</h4>
+            <p>Creating a link between the digital world and the experience of eating Moo Krata.</p>
+            <h4>Main Features</h4>
+            <p><strong>Airdrop and Giveaways:</strong> Distributing tokens to users who participate in Moo Krata-related activities or challenges.</p>
+            <h4>Goals</h4>
+            <ul>
+                <li>Create fun and interest in the token through activities related to Moo Krata.</li>
+                <li>Promote Thai food culture to be more recognized internationally.</li>
+                <li>Build a community with shared interests and participation in related activities.</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Token Allocation</h3>
+            <h4>Distribution of Tokens</h4>
+            <ul>
+                <li><strong>Liquidity Pool:</strong> 60% (5.994 billion tokens) – To ensure liquidity and ease of trading.</li>
+                <li><strong>Airdrop:</strong> 15% (1.4985 billion tokens) – To distribute tokens to new users and activities.</li>
+                <li><strong>Development and Marketing:</strong> 10% (0.999 billion tokens) – For platform development and marketing.</li>
+                <li><strong>Development Team:</strong> 10% (0.999 billion tokens) – For the development team and advisors.</li>
+                <li><strong>Reserve for Future Events:</strong> 5% (0.4995 billion tokens) – For special events in the future.</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Join Our Community</h3>
+            <p>Follow the latest news and activities about Moo Krata Token at:</p>
+            <p class="community-links">
+                <a href="https://www.facebook.com/profile.php?id=61563576326163&mibextid=ZbWKwL" target="_blank">Facebook</a>
+                <a href="#">Twitter</a>
+                <a href="#">telegram</a>
+            </p>
+            <button id="airdropButton" class="button">buy moo krata is coming</button>
+            <div id="alertBox" class="alert-box"></div>
+        </section>
+        <section class="contact-us">
+            <p>Contact Us: <a href="mailto:katakon666@gmail.com">katakon666@gmail.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Moo Krata Token. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // JavaScript to handle airdrop participation and notifications
+
+        document.getElementById('airdropButton').addEventListener('click', function() {
+            const alertBox = document.getElementById('alertBox');
+            alertBox.textContent = 'Coming soon.';
+            alertBox.style.display = 'block';
+        });
+
+        // Function to select a random winner from a list of participants
+        function selectRandomWinner(participants) {
+            if (participants.length === 0) return 'No participants available';
+            const randomIndex = Math.floor(Math.random() * participants.length);
+            return participants[randomIndex];
+        }
